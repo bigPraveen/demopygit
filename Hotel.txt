@@ -4,5 +4,7 @@ Dal fry
 roti
 Mix veg
 
+beans
+pizza
 
 Thanks
